@@ -1,4 +1,4 @@
-# Markhor-I — ESP32 Modular Flight Data System
+# Markhor-I — ESP32 Flight Computer
 
 A modular ESP32-based flight data logger designed for simulation, analysis, and trajectory reconstruction.
 
