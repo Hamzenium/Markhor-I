@@ -70,7 +70,7 @@ main.ino                        <- entry point
 ## Project Structure
 
 ```
-Markhor-I/
+Gasherbrum-I/
 |
 ├── main.ino
 |
