@@ -1,4 +1,4 @@
-# Markhor-I — ESP32 Flight Computer
+# Gasherbrum-I — ESP32 Flight Computer
 
 A modular ESP32-based flight data logger designed for simulation, analysis, and trajectory reconstruction.
 
